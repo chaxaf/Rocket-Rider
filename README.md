@@ -8,7 +8,7 @@ The project focuses on real-time control, rendering, and interaction with constr
 
 ## Demo
 
-![Gameplay screenshot](assets/images/gameplay.png)
+![Gameplay screenshot](docs/images/gameplay.png)
 
 ## Features
 
