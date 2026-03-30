@@ -26,22 +26,6 @@ The project focuses on real-time control, rendering, and interaction with constr
 - **Toolchain:** devkitARM
 - **Build system:** Makefile
 
-## Project Structure
-
-```text
-rocket-rider/
-├── source/                # Core game logic
-├── include/               # Header files, if used
-├── assets/
-│   ├── images/            # Screenshots / visuals
-│   └── audio/             # Audio assets
-├── docs/
-│   └── presentation.pdf   # Optional presentation
-├── Makefile
-├── README.md
-└── RocketRider.nds        # Optional compiled ROM
-```
-
 ## Build and Run
 
 ### Requirements
