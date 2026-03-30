@@ -1,1 +1,0 @@
-rocketLEFT.o: rocketLEFT.s

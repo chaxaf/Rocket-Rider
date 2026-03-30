@@ -1,1 +1,0 @@
-fleche.o: fleche.s

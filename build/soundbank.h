@@ -1,9 +1,0 @@
-#define SFX_AIR_RAID	0
-#define SFX_APPLAUSE	1
-#define SFX_BOO	2
-#define SFX_DONK	3
-#define MOD_SUPERSONIC4	0
-#define SFX_SWISH	35
-#define MSL_NSONGS	1
-#define MSL_NSAMPS	36
-#define MSL_BANKSIZE	37
