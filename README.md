@@ -71,5 +71,5 @@ This project demonstrates:
 
 ## Authors
 
-- Charlotte Heibig
-- Ismael Frei
+- chaxaf
+- Ismael F.
